@@ -1,0 +1,78 @@
+body {
+    background-color: #04bdf5;
+     }
+h1 {
+    font-size: 500%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+   }
+P  { 
+    font-size: 150%;
+    margin-top: 20px;
+    line-height: 1.5;
+   }
+
+a  {
+    text-decoration: black;
+    
+
+}
+div  {
+    border-width: 1px;
+    border-style: transparent;
+    border-color: aliceblue;
+}
+#header {
+    width: 75%;
+    margin: auto;
+    background-color: rgb(12, 209, 231);
+    padding: 50px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 50px;
+}
+#highlight {
+    background-color: rgb(246, 255, 127);
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;
+    color: black;
+    clear: both;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+    
+}
+#highlight a {
+    color: black;
+}
+#highlight a:hover {
+    color: #04bdf5;
+}
+#footer {
+
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 50%;
+    
+}
+
+.right {
+    float:right;
+    margin-top:1%;
+    border-radius: 15px;
+    margin: 5px 10px 15px 20px;
+    transform: rotate(-5deg);
+    box-shadow: 20px 20px 20px rgba(rgb(255, 255, 255), rgb(255, 255, 255), rgb(255, 255, 255), alpa)
+
+}
+
+#container {
+    margin-top: 70px;
+    margin-left: 0.1px;
+    margin-bottom: 100px;
+    
+}
+ #footer img {
+    padding: 10px;
+ }
+
